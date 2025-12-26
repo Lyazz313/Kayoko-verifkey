@@ -1,55 +1,10 @@
-[
-    {
-        "userKey": "alyadziru-user1",
-        "phoneNumber": 6281228372306
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },  
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    },
-    {
-        "userKey": "",
-        "phoneNumber": 
-    }
-]
-
+{
+  "6281228372306": {
+    "key": "Owner",
+    "active": true
+  },
+  "6289876543210": {
+    "key": "UBED-7A8B-QWER",
+    "active": false
+  }
+}
